@@ -15,3 +15,6 @@ Pada project ini saya melakukan setup Environment Variable sebagai berikut:
 - DB_NAME
 - DB_USERNAME
 - DB_PASSWORD
+
+## Using API
+Untuk testing API menggunakan Swagger dengan alamat url http://localhost:2208/swagger-ui/index.html
